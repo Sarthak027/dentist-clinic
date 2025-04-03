@@ -9,7 +9,7 @@
 </div>
 
 <h3 align="center">
-          Live Project : https://doctor-clinic-landing-page.netlify.app/
+          Live Project :  https://sarthak027.github.io/dentist-clinic/
 </h3>
 <br />
 
